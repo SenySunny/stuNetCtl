@@ -8,11 +8,11 @@
 
 
 
-![NetCtl_14DI0DO](img\NetCtl_14DI0DO.png)
+![NetCtl_14DI0DO](img/NetCtl_14DI0DO.png)
 
-![EXT_8DI8DO](img\EXT_8DI8DO.png)
+![EXT_8DI8DO](img/EXT_8DI8DO.png)
 
-![stuNetCtl_EXT](img\stuNetCtl_EXT.jpg)
+![stuNetCtl_EXT](img/stuNetCtl_EXT.jpg)
 
 ​        上图为设计的NetCtl_14DI10DO的主控和EXT_8DI8DO的IO扩展模块，以及内部电路板连接的示意图。后续如果有精力，我们会逐步设计更多的不同功能的主控和扩展模块。以满足不同的应用需求。
 
